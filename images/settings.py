@@ -22,9 +22,9 @@ MESSAGE_TAGS = {
 SECRET_KEY = 'django-insecure-wfwa3&8bo6(g-zy(10-181d3&$w5$o$13-ik2)&33upnst=bs_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*', '5.161.120.177', 'image.rakeshkhadka.com.np']
+ALLOWED_HOSTS = ['*', '5.161.61.211', 'image.factualbio.com']
 
 
 # Application definition
